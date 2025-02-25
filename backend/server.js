@@ -86,7 +86,7 @@ const app = express();
 
 // CORS Configuration
 const corsOptions = {
-  origin: "https://bespoke-zuccutto-278850.netlify.app", // Your frontend domain
+  origin: "https://jolly-marzipan-57daaf.netlify.app", // Your frontend domain
   methods: "GET,POST,PUT,DELETE", // Allowed HTTP methods
   allowedHeaders: "Content-Type,Authorization", // Allowed headers
 };
